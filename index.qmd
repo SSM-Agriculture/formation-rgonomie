@@ -1,11 +1,11 @@
 ---
-title: "Formation-R-perfectionnement"
-subtitle: "Module Création de graphiques avec ggplot2"
+title: "Formation-rgonomie"
+subtitle: "Utilisation de l'application Shiny Rgonomie"
 date: today
 date-format: "DD/MM/YYYY"
 author: "SSP/DEMESIS"
 description: |
-  Support de formation R-perfectionnement : Module Création de graphiques avec ggplot2 au MASA
+  Support de formation rgonomie au MASA
 slide-tone: false # for blind readers
 chalkboard: false # press the B key to toggle chalkboard
 transition: slide
@@ -27,15 +27,31 @@ editor:
 
 ## Sommaire
 
-|                                              |                              |
-|-------------------------------------------|-----------------------------|
-| 1 - Le package ggplot2                       | 8 - Les courbes              |
-| 2 - Initialisation d'un graphique            | 9 - Les camemberts           |
-| 3 - Les différentes géométries de graphiques | 10 - Les boîtes à moustaches |
-| 4 - Croisement avec une autre variable       | 11 - Ajout de libellés       |
-| 5 - Les diagrammes en barres                 | 12 - Habillage du graphique  |
-| 6 - Les histogrammes                         | 13 - Sauvegarde du graphique |
-| 7 - Les nuages de points                     | 14 - Liens                   |
+Déroulement journée
+
+-   Présentation du contexte : CERISE, R et RStudio
+-   Présentation Rgonomie
+-   Rgonomie : pour quoi faire ?
+-   Notions préalables
+
+|                                   |                                            |
+|-----------------------------------|--------------------------------------------|
+| Notions de tables, lignes/colonnes| Type de fichiers utilisables dans Rgonomie |
+| Règles de nommage                 | Fonctionnement commun des écrans Rgonomie  |
+
+- Fonctionnalités de Rgonomie
+
+|                                   |                                        |
+|-----------------------------------|----------------------------------------|
+| Importer une table                | Exporter des fichiers ou des résultats |
+| Visualiser une table              | Fermer des tables                      |
+| Trier des observations            | Création de variables (colonnes)       |
+| Filtrer des observations          | Recoder des variables                  |
+| Sélectionner des variables        | Fusionner / Apparier des tables        |
+| Agréger des données               | Transposer ou restructurer des tables  |
+| Réaliser des tableaux de synthèse | Sauvegarder le code R produit          |
+
+- Astuces diverses
 
 ## Avant-propos
 
@@ -45,42 +61,13 @@ Ce diaporama de formation a été rédigé dans le but d'être le support
 visuel des formations dispensées au
 [MASA](https://agreste.agriculture.gouv.fr/).
 
-Ces formations s'adressent à des agents qui ont suivi **la formation R
-initiation**.\
+Cette formation s'adresse à des agents qui ont suivi **la formation R
+fondamentaux**.\
 
-## Avant-propos
+Elles peut être donné soit en distanciel soit en présentiel sur une durée **d'une journée**.  
+<br>
+Ce support fait également office de **mode d'emploi de l'application**.
 
-Elles sont données en présentiel sur une durée **de trois journée**, les
-modules de cette formation sont ajustables suivants le choix des agents.
-
-::: callout-note
-## Champ couvert par cette formation
-
-**Ce support couvre les rappels et complèments sur R et l'environnement
-du Minsitère.**
-
-Pour information, Les Modules de la formation R-perfectionnement sont:
-
--   01 - Module Rappels
-
--   02 - Module Fonctions
-
--   03 - Module Cartes statiques et interactives
-
--   04 - Module Création de graphiques avec ggplot2
-
--   05 - Module Quarto
-
--   06 - Module Parquet
-
--   07 - Module Initiation à l'écriture d'applications Shiny
-
-Ils sont orientés pour être utiles aux agents du SSM MASA et se
-concentrent sur une utilisation de R via
-[RStudio](https://posit.co/download/rstudio-desktop/) qui est mise à
-disposition des agents sur la plateforme interne Cerise basée sur
-RStudio Workbench.
-:::
 
 {{< include 01_contexte.qmd >}}
 

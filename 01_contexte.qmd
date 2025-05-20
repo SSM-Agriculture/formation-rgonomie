@@ -1,13 +1,3 @@
-# Le package ggplot2 {.backgroundTitre}
+# Contexte {.backgroundTitre}
 
-## Le package ggplot2
-
-Le package ggplot2 :
-
--   Créé par Hadley Wickham
-
--   Construit autour de la « grammaire des graphiques » (gg) qui décompose chaque graphique en un ensemble d'éléments sur lesquels le package permet de jouer indépendamment
-
--   **Objectif** : réaliser des graphiques complexes et personnalisés à partir d'un fichier détail, d'un fichier détail pondéré ou de données agrégées
-
--   **Site officiel** : <http://ggplot2.tidyverse.org/reference/>
+## Présentation
