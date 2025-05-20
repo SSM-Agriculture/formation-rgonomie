@@ -1,0 +1,89 @@
+---
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+# Initialisation d'un graphique {.backgroundTitre}
+
+## Initialisation d'un graphique
+
+::: columns
+::: {.column width="40%"}
+![](img/clipboard-init1.png){fig-align="center"}
+:::
+
+::: {.column width="60%"}
+Un graphique est composé:
+
+- des données
+- des paramètres esthétiques : les variables à représenter ⇒ `aes()`
+- une géométrie ⇒ `geom_*`
+- des vignettes éventuelles ⇒ `facet_*`
+- des éléments d'échelle ⇒ `scale_*`
+- un système de coordonnées ⇒ `coord_*`
+- des éléments d'habillage du graphique (apparence, titre, ajout de texte, etc.) ⇒ `theme()`
+:::
+:::
+
+Un graphique s'initialise avec la fonction `ggplot()` puis chaque
+élément est ajouté aux autres avec un +
+
+
+## Initialisation d'un graphique
+
+Initialisation du graphique avec la fonction **ggplot()**.
+
+On déclare :
+
+-   `data` : la table contenant les données à représenter
+
+-   `mapping` : éventuellement, la ou les variables à représenter
+    L'argument mapping requiert l'utilisation de la fonction *aes()*
+    (pour aesthetic mappings). Les variables à représenter sont
+    indiquées dans cette fonction par les paramètres x et y.
+
+<br>
+
+⇒ ce sont les bases du graphique, sur lesquelles on va afficher ensuite
+les données
+
+## Initialisation d'un graphique
+
+Initialisation d'un graphique, les axes x et y sont créés mais **aucune géométrie** n'est utilisée pour représenter les données.  
+
+<br>
+
+![](img/clipboard-init2.png){fig-align="center"}
+
+## Utilisation de la fonction `aes()`
+
+**L'appel de la fonction `aes()` peut se faire :**  
+
+- Dans l'initialisation du graphique avec `ggplot()`  
+
+```{.r}
+ggplot(data = diamonds, mapping = aes(x = clarity, y = price)) +
+  geom_bar(stat = "identity")
+```
+
+- Dans la fonction de géométrie => utile si on souhaite superposer plusieurs 
+géométries avec des paramètres esthétiques différents.
+
+```{.r}
+ggplot(data = diamonds) +
+  geom_bar(aes(x = clarity, y = price),
+           stat = "identity")
+```
+
+- En dehors des autres fonctions.
+
+```{.r}
+ggplot(data = diamonds) +
+  aes(x = clarity, y = price) +
+  geom_bar(stat = "identity")
+```
+
+**Les 3 écritures sont équivalentes.**  
+
+**Par défaut, chaque fonction de géométrie hérite des paramètres esthétiques précédents.** 
