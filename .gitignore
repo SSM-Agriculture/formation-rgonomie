@@ -1,0 +1,19 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Les repertoires suivants
+formation-rgonomie_files/
+_output/
+/.quarto/
+/_site/
+
+# Les fichiers suivants
+*.html
+!docs/*.html
+*.tex
+*.log
+*.sty
+*.docx
+*.odt
