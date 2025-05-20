@@ -1,3 +1,59 @@
 # Contexte {.backgroundTitre}
 
-## Présentation
+## Présentation Cerise - R - RStudio (1/5)
+
+**CERISE : Consolidation Et Restitution de l’Information StatistiquE** : contient les fichiers échantillons, les données individuelles collectées (voire agrégées) et des programmes R pour les exploiter CERISE contient des projets (ex : fiche territoriale) avec des programmes R et des projets particuliers (ex Rgonomie) avec des scripts R exécutés dans des interfaces spécifiques sous R Shiny
+ 
+ <br>
+ 
+::: columns
+::: {.column width="65%"}
+**Différents espaces dans CERISE :**  
+Diffusion : fichiers échantillon et fichiers de diffusion (agrégés ou non)  Accès en lecture pour tous
+Partage : programmes ou projet R  Accès en lecture pour tous et selon dossier accès en écriture
+Personnel : Dossier personnel (programmes ou données)  Accès en lecture/écriture pour la personne, dossier non visible pour les autres agents
+:::
+
+::: {.column width="35%"}
+![](img/espaces_cerise.png){fig-align="center"}
+:::
+:::
+
+## Présentation Cerise - R - RStudio (2/5)
+
+![](img/RLogo.png)
+
+R est à la fois un logiciel et un langage de programmation pour le traitement de données et l’analyse statistique. Il peut lire tous les formats de fichiers de données.  
+C’est un logiciel gratuit et open source  
+R propose un grand nombre de packages pour réaliser des traitements spécifiques ou simplifiés  
+
+![](img/RStudio_Logo.png)
+
+RStudio permet de manipuler R avec une interface plus agréable et plus complète  
+RStudio est découpé en 4 fenêtres :  
+En haut à gauche, visualisation des scripts (programmes R) ou des données  
+En haut à droite, visualisation et gestion des objets en mémoire (données, variables, …)  
+En bas à gauche, la console affichant les logs, les résultats et permettant de saisir les lignes de commande  
+En bas à droite, visualisation par défaut des répertoires (visualisation possible des packages, graphiques ou aides)  
+
+## Présentation Cerise - R - RStudio (3/5)
+
+![](img/RStudio_fenetres.png){fig-align="center"}
+
+## Présentation Cerise - R - RStudio (4/5)
+
+La fenêtre en haut à gauche permet de visualiser :
+Les scripts R (programmes)
+
+![](img/Viewer_RStudio.png){fig-align="center"}  
+
+
+Pour soumettre (exécuter) la ligne de code ou la sélection de lignes, il faut cliquer sur "Run" ou faire CTRL + Entrée (à noter que dans le cadre d’un projet (ex Rgonomie), il faut cliquer sur "Run App".                    
+
+![](img/Script_RStudio.png){fig-align="center"}
+
+## Présentation Cerise - R - RStudio (5/5)
+
+La fenêtre en bas à droite comporte 6 onglets, c’est l’onglet Files qui est actif par défaut, le répertoire par défaut est celui de l’utilisateur (espace personnel)
+
+![](img/Acces_espaces.png){fig-align="center"}
