@@ -1,3 +1,34 @@
-# Contexte {.backgroundTitre}
+# Présentation {.backgroundTitre}
 
-## Présentation
+## Présentation de Rgonomie (1/5)
+
+- L’objectif est de proposer une **interface graphique** évitant à un utilisateur de connaitre le langage R pour exploiter des fichiers de données et réaliser des **traitements statistiques de base**.  
+
+- Rgonomie a été développé au DEMESIS en 2018.
+
+- Rgonomie est codé en R avec le package Shiny permettant d’encapsuler les programmes R dans une interface Web plus conviviale.  
+
+- Les fonctionnalités disponibles sont restreintes à des traitements basiques.  
+
+- Rgonomie génère la syntaxe R nécessaire aux manipulations effectuées par l’utilisateur via l’interface puis les exécute.  
+
+- Cette syntaxe R peut être récupérée pour une exécution ultérieure dans RStudio  
+
+## Présentation de Rgonomie (2/5)
+
+Pour accéder à Rgonomie, il faut depuis Cerise dans la fenêtre de répertoire (onglet Files), aller dans :
+
+*"CERISE/01-Espace-de-Partage/SSP/BMIS/Rgonomie/Production"*
+
+Puis ouvrir (double clic) le projet "Rgonomie.Rproj"  
+
+Puis ouvrir (double clic) le programme "Rgonomie.R"  
+
+Dans la fenêtre de visualisation du programme cliquer sur le bouton "Run App"  
+
+Le programme s'exécute et l'application s'affiche à l'écran.
+
+
+## Présentation de Rgonomie (3/5)
+## Présentation de Rgonomie (4/5)
+## Présentation de Rgonomie (5/5)
