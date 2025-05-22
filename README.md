@@ -2,7 +2,7 @@
 [![render](https://github.com/SSM-Agriculture/formation-rgonomie/actions/workflows/publish.yaml/badge.svg)](https://github.com/SSM-Agriculture/formation-rgonomie)
 <!-- badges: end -->
 
-# Formation Rgonomie
+# Formation Rgonomie <img src="img/logo_rgonomie_transparent.png" width=110 align="right"/>
 
 Support de présentation pour l'utilisation de l'application Rgonomie pour la formation dispensée au [MASA](https://agriculture.gouv.fr/).
 
