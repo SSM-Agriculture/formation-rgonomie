@@ -25,7 +25,7 @@ editor:
     wrap: 72
 ---
 
-## Sommaire
+## Sommaire (1/2)
 
 Déroulement journée
 
@@ -38,6 +38,8 @@ Déroulement journée
 |-----------------------------------|--------------------------------------------|
 | Notions de tables, lignes/colonnes| Type de fichiers utilisables dans Rgonomie |
 | Règles de nommage                 | Fonctionnement commun des écrans Rgonomie  |
+
+## Sommaire (2/2)
 
 - Fonctionnalités de Rgonomie
 
