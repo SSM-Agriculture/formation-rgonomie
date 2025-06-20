@@ -75,3 +75,18 @@ Une table est constituée de [lignes]{.green} (observations) et de [colonnes]{.r
 ![](img/valeurs_manquantes.png){fig-align="left"}
 :::
 :::
+
+## Import de fichiers - Type de fichiers
+
+Rgonomie permet d’importer des tables de données dans l’environnement R, depuis le **poste local** ou depuis le serveur **Cerise**, dans différents formats :  
+
+- Rdata ou rds (R)  
+- sav (SPSS)  		
+- sas7bdat (SAS)  	
+- xlsx, xls (Excel)  
+- ods (LibreOffice)  
+- parquet  
+- Fichiers de données de type texte : csv. Pour ces fichiers csv, une fenêtre demande les paramètres du format (séparateur de champ, type des champs, ….)  
+
+[Le format est automatiquement détecté grâce à l’extension du fichier]{.blue}
+
