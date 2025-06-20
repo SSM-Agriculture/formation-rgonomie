@@ -1,3 +1,20 @@
 # Contexte {.backgroundTitre}
 
 ## Présentation
+
+::: columns
+::: {.column width="50%"}
+**Exploiter des données : par exemple les données du RA2020**  
+Répartition par département  
+- des exploitations  
+- de la SAU  
+- des UGB et des en-ayant UGB  
+- des ETP et ETP moyen par exploitation  
+- de la PBS et PBS moyenne par exploitation  
+- en ajoutant un total régional
+:::
+
+::: {.column width="50%"}
+![](img/tableau.png){fig-align="left"}
+:::
+:::
