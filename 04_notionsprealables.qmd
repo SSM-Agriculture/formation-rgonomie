@@ -17,3 +17,13 @@
 - Ce qui est [déconseillé]{.orange} :  
     - Utiliser des caractères accentués  
     - Utiliser des symboles spéciaux ($,&,…)	
+
+## Notions de tables (1/3)
+
+Une table est constituée de [lignes]{.green} (observations) et de [colonnes]{.red} (variables) et possède un [identifiant]{.blue}  
+
+![](img/differentes_tables.png){fig-align="center"}
+
+## Notions de tables (2/3)
+
+## Notions de tables (3/3)
