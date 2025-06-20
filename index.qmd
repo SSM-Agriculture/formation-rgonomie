@@ -80,4 +80,4 @@ Ce support fait également office de **mode d'emploi de l'application**.
 
 {{< include 05_fonctionnalites.qmd >}}
 
-{{< include 07_astuces.qmd >}}
+{{< include 06_astuces.qmd >}}
