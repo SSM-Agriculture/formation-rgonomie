@@ -39,7 +39,7 @@ Une table est constituée de [lignes]{.green} (observations) et de [colonnes]{.r
 
 ## Notions de tables (3/4)
 
-Cas particulier des fichiers csv ou txt  
+**Cas particulier des fichiers csv ou txt**  
   
 - Peuvent parfois ne pas contenir en 1ere ligne les noms des colonnes  
   
@@ -67,6 +67,11 @@ Cas particulier des fichiers csv ou txt
 :::
 
 ::: {.column width="20%"}
+<br>
+<br>
+<br>
+<br>
+   
 ![](img/valeurs_manquantes.png){fig-align="left"}
 :::
 :::
