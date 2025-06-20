@@ -32,12 +32,11 @@ Déroulement journée
 -   Présentation du contexte : CERISE, R et RStudio
 -   Présentation Rgonomie
 -   Rgonomie : pour quoi faire ?
--   Notions préalables
-
-|                                   |                                            |
-|-----------------------------------|--------------------------------------------|
-| Notions de tables, lignes/colonnes| Type de fichiers utilisables dans Rgonomie |
-| Règles de nommage                 | Fonctionnement commun des écrans Rgonomie  |
+-   Notions préalables  
+    - Notions de tables, lignes/colonnes  
+    - Type de fichiers utilisables dans Rgonomie  
+    - Règles de nommage 
+    - Fonctionnement commun des écrans Rgonomie
 
 ## Sommaire (2/2)
 
