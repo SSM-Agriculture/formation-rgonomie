@@ -50,7 +50,6 @@ Une table est constituée de [lignes]{.green} (observations) et de [colonnes]{.r
 
 ## Notions de tables (4/4)
 
-
 ::: columns
 ::: {.column width="80%"}
 - **Valeurs manquantes :** Une valeur manquante est une donnée qui n’a pas été collectée et qui n’a pas encore fait l’objet d’une imputation  
@@ -90,3 +89,26 @@ Rgonomie permet d’importer des tables de données dans l’environnement R, de
 
 [Le format est automatiquement détecté grâce à l’extension du fichier]{.blue}
 
+## Fonctionnement commun – Ecrans Rgonomie
+
+::: columns
+::: {.column width="70%"}
+Une fois, les tables importées, les fonctionnalités offertes proposent des modalités communes :  
+  
+- Sélection de la table  
+[Ne propose que les tables importées ou créées lors de l’utilisation d’une fonctionnalité]{.tiny}  
+- Nom de la table résultat  
+[Remettre le même nom écrase la table existante]{.tiny}  
+[Saisir un autre nom crée une table supplémentaire]{.tiny}  
+- Valider  
+[Permet de tester les choix réalisés, la syntaxe s’écrit dans la zone de syntaxe sans s’exécuter mais le résultat potentiel s’affiche dans la zone résultat sans modifier la table existante (ou résultat)]{.tiny}  
+- Exécuter la commande  
+[En cochant, on exécute la commande et les modifications]{.tiny}  
+- Zone de syntaxe  
+[Affiche la syntaxe produite par la commande (exécutée ou non)]{.tiny}
+:::
+
+::: {.column width="30%"}
+![](img/ecrans_selection.png){fig-align="left"}
+:::
+:::
