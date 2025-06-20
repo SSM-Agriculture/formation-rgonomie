@@ -3,6 +3,7 @@
 ## Analyser une variables (1/3)
 
 ![](img/Ast_analyser_var_1.png){fig-align="center"}
+
 ## Analyser une variables (2/3)
 
 ![](img/Ast_analyser_var_2.png){fig-align="center"}
@@ -17,4 +18,4 @@
 
 ## Utiliser le code R (2/2) (Cerise only)
 
-![](Utiliser_code_R_2.png){fig-align="center"}
+![](img/Utiliser_code_R_2.png){fig-align="center"}
