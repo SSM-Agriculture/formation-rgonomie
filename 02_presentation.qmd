@@ -75,3 +75,14 @@ Le programme rgonomie.r s’arrête lorsque l’on ferme la fenêtre du navigate
 - Bien penser en fin d’utilisation, après la fermeture de la fenêtre du navigateur de quitter le projet, afin de ne pas encombrer l’espace de travail de Cerise. Pour cela, cliquer sur la flèche à coté du nom du projet, puis choisir `Close Project`. On retourne alors dans Cerise où l’on peut quitter la session.
 
 ![](img/fermer_session.png){fig-align="center"}
+
+## Précautions d'usage Rgonomie
+
+- Rgonomie est situé dans un espace partagé sous Cerise.  
+  
+- Les utilisateurs (vous) ont donc les droits d’écriture dans ce répertoire  
+  
+=> Il s’agit donc de d’être précautionneux sur ce répertoire, en particulier :  
+    - Ne pas modifier le code de l’application  
+    - Ne pas créer de répertoires personnels («mes_exercices»)  
+    - Ne pas installer de packages lors de l’utilisation de Rgonomie  
