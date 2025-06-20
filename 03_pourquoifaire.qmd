@@ -1,6 +1,6 @@
 # Contexte {.backgroundTitre}
 
-## Présentation
+## Rgonomie : pour quoi faire ? (1/2)
 
 ::: columns
 ::: {.column width="50%"}
@@ -18,3 +18,17 @@ Répartition par département
 ![](img/tableau.png){fig-align="left"}
 :::
 :::
+
+## Rgonomie : pour quoi faire ? (2/2)
+
+**Exploiter des données**  
+**par exemple les données du RA2020 :**  
+
+- Répartition par département des exploitations, de la SAU, des UGB et des en-ayant UGB, des ETP et ETP moyen par exploitation, de la PBS et de la PBS moyenne par exploitation en ajoutant un total régional  
+  
+  
+- Répartition par département et par dimension économique du nombre d’exploitations et des ETP  
+  
+- Répartition par département et par statut juridique de la PBS avec PBS moyenne par exploitation  
+
+**Allons-y ensemble**
