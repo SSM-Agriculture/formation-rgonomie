@@ -18,12 +18,25 @@
     - Utiliser des caractères accentués  
     - Utiliser des symboles spéciaux ($,&,…)	
 
-## Notions de tables (1/3)
+## Notions de tables (1/4)
 
 Une table est constituée de [lignes]{.green} (observations) et de [colonnes]{.red} (variables) et possède un [identifiant]{.blue}  
 
 ![](img/differentes_tables.png){fig-align="center"}
 
-## Notions de tables (2/3)
+## Notions de tables (2/4)
 
-## Notions de tables (3/3)
+- La 1ere ligne contient habituellement le nom des colonnes (variables)  
+  
+- Chaque ligne représente généralement une unité statistique (exploitation, parcelle, abattoir, enquêteur, ….)  
+  
+- Chaque unité statistique est identifiée par une variable (code) qui lui permet d’être repérée de manière unique (N° sécu, Pacage, id_dossier, n° EDE, ….)  
+
+    - Prénom et nom ne constituent pas un identifiant
+  
+- 1 ligne par US : table en structure simple  
+- Plusieurs lignes par US : table en structures répétées  
+
+## Notions de tables (3/4)
+
+## Notions de tables (4/4)
