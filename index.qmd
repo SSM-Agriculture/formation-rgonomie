@@ -78,8 +78,6 @@ Ce support fait également office de **mode d'emploi de l'application**.
 
 {{< include 04_notionsprealables.qmd >}}
 
-{{< include 05_fonctionnalites_partie1.qmd >}}
-
-{{< include 06_fonctionnalites_partie2.qmd >}}
+{{< include 05_fonctionnalites.qmd >}}
 
 {{< include 07_astuces.qmd >}}
