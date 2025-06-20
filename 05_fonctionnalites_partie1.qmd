@@ -11,3 +11,14 @@
 ## Importer une table (3/3)
 
 ![](img/Fct_import_3.png){fig-align="center"}
+## Visualiser une table
+
+![](img/Fct_vis.png){fig-align="center"}
+
+## Trier une table
+
+![](img/Fct_tri.png){fig-align="center"}
+
+## Filtrer les observations
+
+![](img/Fct_filtre.png){fig-align="center"}
