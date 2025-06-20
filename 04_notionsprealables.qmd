@@ -39,4 +39,11 @@ Une table est constituée de [lignes]{.green} (observations) et de [colonnes]{.r
 
 ## Notions de tables (3/4)
 
+Cas particulier des fichiers csv ou txt  
+  
+    - Peuvent parfois ne pas contenir en 1ere ligne les noms des colonnes  
+    - Il faut repérer le séparateur de colonnes (le point-virgule, la virgule, la marque de tabulation, …) et le séparateur décimal (virgule ou point)  
+    - Il faut connaitre l’encodage (UTF_8, windows, …)
+
+
 ## Notions de tables (4/4)
