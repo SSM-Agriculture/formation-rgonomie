@@ -58,3 +58,87 @@
 ## Fermer une table
 
 ![](img/Fct_fermer.png){fig-align="center"}
+
+## Création de variables (1/6) 
+
+![](img/Fct_creation_var_1.png){fig-align="center"}
+
+## Création de variables (2/6) 
+
+![](img/Fct_creation_var_2.png){fig-align="center"}
+
+## Création de variables (3/6) 
+
+![](img/Fct_creation_var_3.png){fig-align="center"}
+
+## Création de variables (4/6) 
+
+![](img/Fct_creation_var_4.png){fig-align="center"}
+
+## Création de variables (5/6) 
+
+![](img/Fct_creation_var_5.png){fig-align="center"}
+
+## Création de variables (6/6) 
+
+![](img/Fct_creation_var_6.png){fig-align="center"}
+## Remplacer des valeurs (1/2) 
+
+![](img/Fct_remplacement.png){fig-align="center"}
+## Remplacer des valeurs (2/2) 
+
+![](img/Fct_remplacement_2.png){fig-align="center"}
+
+## Fusionner des tables - Ajout de lignes
+
+![](img/Fct_fusion_1.png){fig-align="center"}
+
+## Fusionner des tables - Ajout de colonnes (1/4)
+
+![](img/Fct_fusion_ajout_col_1.png){fig-align="center"}
+## Fusionner des tables - Ajout de colonnes (2/4)
+
+![](img/Fct_fusion_ajout_col_2.png){fig-align="center"}
+
+## Fusionner des tables - Ajout de colonnes (3/4)
+
+![](img/Fct_fusion_ajout_col_3.png){fig-align="center"}
+
+## Fusionner des tables - Ajout de colonnes (4/4)
+
+![](img/Fct_fusion_ajout_col_4.png){fig-align="center"}
+## Transposer une table
+
+![](img/Fct_transpo.png){fig-align="center"}
+
+## Restructurer une table (1/5)
+
+![](img/Fct_restruct_1.png){fig-align="center"}
+
+
+## Restructurer une table de lignes en colonnes (2/5)
+
+![](img/Fct_restruct_2.png){fig-align="center"}
+
+
+## Restructurer une table de lignes en colonnes (3/5)
+
+![](img/Fct_restruct_3.png){fig-align="center"}
+
+
+## Restructurer une table de colonnes en lignes (4/5)
+
+![](img/Fct_restruct_4.png){fig-align="center"}
+
+
+## Restructurer une table de colonnes en lignes (5/5)
+
+![](img/Fct_restruct_5.png){fig-align="center"}
+
+## Exporter du code (1/2)
+
+![](img/Fct_sauv_code.png){fig-align="center"}
+
+## Exporter du code (2/2)
+
+![](img/Fct_sauv_code_2.png){fig-align="center"}
