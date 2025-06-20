@@ -10,3 +10,11 @@
 ## Analyser une variables (3/3)
 
 ![](img/Ast_analyser_var_3.png){fig-align="center"}
+
+## Utiliser le code R (1/2) (Cerise only)
+
+![](img/Utiliser_code_R.png){fig-align="center"}
+
+## Utiliser le code R (2/2) (Cerise only)
+
+![](Utiliser_code_R_2.png){fig-align="center"}
