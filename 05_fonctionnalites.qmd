@@ -50,3 +50,11 @@
 ## Réaliser des tableaux (4/4)
 
 ![](img/Fct_tableau_4.png){fig-align="center"}
+
+## Exporter une table
+
+![](img/Fct_export.png){fig-align="center"}
+
+## Fermer une table
+
+![](img/Fct_fermer.png){fig-align="center"}
