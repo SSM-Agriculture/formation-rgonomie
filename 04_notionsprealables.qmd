@@ -41,9 +41,32 @@ Une table est constituée de [lignes]{.green} (observations) et de [colonnes]{.r
 
 Cas particulier des fichiers csv ou txt  
   
-    - Peuvent parfois ne pas contenir en 1ere ligne les noms des colonnes  
-    - Il faut repérer le séparateur de colonnes (le point-virgule, la virgule, la marque de tabulation, …) et le séparateur décimal (virgule ou point)  
-    - Il faut connaitre l’encodage (UTF_8, windows, …)
+- Peuvent parfois ne pas contenir en 1ere ligne les noms des colonnes  
+  
+- Il faut repérer le séparateur de colonnes (le point-virgule, la virgule, la marque de tabulation, …) et le séparateur décimal (virgule ou point)  
+  
+- Il faut connaitre l’encodage (UTF_8, windows, …)
 
 
 ## Notions de tables (4/4)
+
+
+::: columns
+::: {.column width="80%"}
+- **Valeurs manquantes :** Une valeur manquante est une donnée qui n’a pas été collectée et qui n’a pas encore fait l’objet d’une imputation  
+
+- [Attention]{.red} Par défaut, dans ses calculs, R ne fournit pas de résultat en cas de calcul contenant des valeurs manquantes.  
+
+- **Une valeur manquante dans R est indiquée par NA**  
+  
+- Il sera très important lors de la création de nouvelles variables de bien gérer les valeurs manquantes  
+    - Utilisation de na.rm=TRUE lorsque c’est possible, sinon  
+        - Exclusion des lignes avec valeurs manquantes  
+        - Remplacement des valeurs manquantes par 0  
+        - Intégrer dans le calcul un test sur la valeur manquante
+:::
+
+::: {.column width="20%"}
+![](img/valeurs_manquantes.png){fig-align="left"}
+:::
+:::
