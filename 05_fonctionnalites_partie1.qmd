@@ -22,3 +22,31 @@
 ## Filtrer les observations
 
 ![](img/Fct_filtre.png){fig-align="center"}
+
+## Sélectionner les colonnes (variables)
+
+![](img/Fct_selection.png){fig-align="center"}
+
+## Agréger une table (1/2)
+
+![](img/Fct_agr.png){fig-align="center"}
+
+## Agréger une table (2/2)
+
+![](img/Fct_agr_2.png){fig-align="center"}
+
+## Réaliser des tableaux (1/4)
+
+![](img/Fct_tableau_1.png){fig-align="center"}
+
+## Réaliser des tableaux (2/4)
+
+![](img/Fct_tableau_2.png){fig-align="center"}
+
+## Réaliser des tableaux (3/4)
+
+![](img/Fct_tableau_3.png){fig-align="center"}
+
+## Réaliser des tableaux (4/4)
+
+![](img/Fct_tableau_4.png){fig-align="center"}
