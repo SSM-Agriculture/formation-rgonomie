@@ -1,3 +1,19 @@
-# Contexte {.backgroundTitre}
+# Notions préalables {.backgroundTitre}
 
-## Présentation
+## Règles de nommage dans R
+
+- R (donc Rgonomie) est assez souple dans le nommage des objets mais ….  
+
+- **Règle impérative :** Les noms doivent commencer par une lettre (pas de chiffre en début de nom de table ou de variable)  
+
+- Ce qui est [autorisé]{.green} :  
+    - Majuscules ou minuscules (elles sont gérées différemment)  
+    - Chiffres,  underscore (_), point (.)  
+    
+- Ce qui est [interdit]{.red} :  
+    - Utiliser le tiret (-)  
+    - Utiliser certains noms réservés au système (else, for, T, F, …)  
+    
+- Ce qui est [déconseillé]{.orange} :  
+    - Utiliser des caractères accentués  
+    - Utiliser des symboles spéciaux ($,&,…)	
