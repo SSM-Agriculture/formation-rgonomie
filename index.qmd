@@ -5,7 +5,7 @@ date: today
 date-format: "DD/MM/YYYY"
 author: "SSP/DEMESIS"
 description: |
-  Support de formation rgonomie au MASA
+  Support de formation rgonomie au SSM Agriculture
 slide-tone: false # for blind readers
 chalkboard: false # press the B key to toggle chalkboard
 transition: slide
@@ -60,7 +60,7 @@ Déroulement journée
 
 Ce diaporama de formation a été rédigé dans le but d'être le support
 visuel des formations dispensées au
-[MASA](https://agreste.agriculture.gouv.fr/).
+[SSM Agriculture](https://agreste.agriculture.gouv.fr/).
 
 Cette formation s'adresse à des agents qui ont suivi **la formation R
 fondamentaux**.\

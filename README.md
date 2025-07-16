@@ -4,7 +4,7 @@
 
 # Formation Rgonomie <img src="img/logo_rgonomie_transparent.png" width=110 align="right"/>
 
-Support de présentation pour l'utilisation de l'application Rgonomie pour la formation dispensée au [MASA](https://agriculture.gouv.fr/).
+Support de présentation pour l'utilisation de l'application Rgonomie pour la formation dispensée au [SSM Agriculture](https://agriculture.gouv.fr/).
 
 Les slides présentées dans cette formation correspondent à la version interne de l'application Rgonomie.  
 Si vous souhaitez utiliser Rgonomie en version open-source, rendez-vous à cette URL : https://rgonomie.lab.sspcloud.fr/
